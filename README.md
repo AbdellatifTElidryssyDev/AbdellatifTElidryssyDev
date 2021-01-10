@@ -19,7 +19,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdellatifTElidryssyDev&show_icons=true&locale=en&layout=compact" alt="AbdellatifTElidryssyDev" /></p>
 <br>
 <br>
-<div>
-<h3 align="left">📊 Statistics</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdellatifTElidryssyDev&show_icons=true&locale=en" alt="AbdellatifTElidryssyDev" /></p>
-</div>
+<p>
+ <h3 align="left">📊 Statistics</h3>
+ &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdellatifTElidryssyDev&show_icons=true&locale=en" alt="AbdellatifTElidryssyDev" /></p>
+
