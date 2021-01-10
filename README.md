@@ -17,19 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdellatifTElidryssyDev&show_icons=true&locale=en&layout=compact" alt="AbdellatifTElidryssyDev" /></p>
 <br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-
 <h3 align="left">📊 Statistics</h3>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
 <br><br>
 <br><br>
 
