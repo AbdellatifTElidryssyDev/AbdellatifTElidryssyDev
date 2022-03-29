@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://dev.to/dev2informa" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev2informa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdellatif-t-idryssy/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/abdellatif-t-idryssy/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/abdellatif-t-idryssy/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools :</h3>
