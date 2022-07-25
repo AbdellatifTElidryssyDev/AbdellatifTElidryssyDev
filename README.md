@@ -19,4 +19,8 @@
 <h3 align="left">📊 Statistics : </h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdellatifTElidryssyDev&show_icons=true&locale=en" alt="AbdellatifTElidryssyDev" /></p>
+<br />
+<br />
+  <img src="https://komarev.com/ghpvc/?username=AbdellatifTElidryssyDev" alt="AbdellatifTElidryssyDev" height="20"/>
+
 
