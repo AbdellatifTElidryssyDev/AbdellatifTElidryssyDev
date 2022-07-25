@@ -21,6 +21,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdellatifTElidryssyDev&show_icons=true&locale=en" alt="AbdellatifTElidryssyDev" /></p>
 <br />
 <br />
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbdellatifTElidryssyDev" alt="AbdellatifTElidryssyDev" height="20"/>
+<p/>
 
 
