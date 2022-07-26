@@ -22,7 +22,7 @@
 <br />
 <br />
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdellatifTElidryssyDev" alt="AbdellatifTElidryssyDev" height="20"/>
+  <img src="https://komarev.com/ghpvc/?username=AbdellatifTElidryssyDev&style=for-the-badge" alt="AbdellatifTElidryssyDev" height="20"/>
 <p/>
 
 
